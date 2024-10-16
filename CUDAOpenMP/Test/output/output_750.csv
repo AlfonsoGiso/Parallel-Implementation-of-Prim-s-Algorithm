@@ -1,0 +1,4 @@
+Version,OpenMP Threads,Time
+Serial,0,0.458159
+Parallel,1,0.258970
+Parallel,2,0.241672
