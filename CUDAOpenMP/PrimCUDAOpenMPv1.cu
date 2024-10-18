@@ -12,7 +12,7 @@
  * 
  * https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
  * 
- * Copyright (C) 2024  Sabato Fasulo
+ * Copyright (C) 2024  Alfonso Giso
  * 
  * This file is part of CommonAssignmentMPIOpenMP
  * 
